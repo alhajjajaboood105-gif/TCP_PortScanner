@@ -74,5 +74,4 @@ Unauthorized port scanning is illegal in many jurisdictions.
 Educational use only. Use responsibly and ethically.  
 **Open Source:** Free to use, modify, and distribute with attribution.
 
----
-*Built with C++11, standard libraries, and platform‑specific socket APIs.*
+
