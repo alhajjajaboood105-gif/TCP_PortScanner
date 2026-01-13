@@ -846,10 +846,12 @@ Enter Target IP: [172.0.0.1] 192.168.1.100
 Enter choice: 7
 
 === CURRENT CONFIGURATION ===
+
 Target IP: 192.168.1.100
 Port Range: 1 - 1024
 Threads: 50
 Timeout: 500ms
+
 ===============================
 
 Starting Scan In 3 Seconds...
@@ -873,8 +875,11 @@ open ports: 3
 closed ports: 1021
 
 ===DETAILED RESULT===
+
 PORT      SERVICE
+
 -------------------------
+
 22        SSH
 80        HTTP
 443       HTTPS
