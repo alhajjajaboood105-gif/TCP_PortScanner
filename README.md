@@ -1,6 +1,6 @@
-TCP PORT SCANNER - Complete Technical Documentation
+TCP PORT SCANNER 
 
-Author: aAbood Alhajjaj , Khamees Alhalboosi , Zena Alqudah ,Heba Alhasasneh\
+Author: Abood Alhajjaj , Khamees Alhalboosi , Zena Alqudah ,Heba Alhasasneh\
 Date: December 2025\
 Language: C++11\
 Platforms: Windows, Linux
