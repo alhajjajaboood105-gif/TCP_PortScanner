@@ -1,7 +1,6 @@
 TCP PORT SCANNER - Complete Technical Documentation
 
-Author: Port Scanner Development Team\
-Version: 1.0\
+Author: aAbood Alhajjaj , Khamees Alhalboosi , Zena Alqudah ,Heba Alhasasneh\
 Date: December 2025\
 Language: C++11\
 Platforms: Windows, Linux
@@ -1196,8 +1195,3 @@ This cross-platform TCP port scanner demonstrates:
 ✅ Responsive UI with progress tracking\
 ✅ Graceful shutdown on user interrupt\
 ✅ Service identification for common ports
-
----
-
-Version 1.0 - December 2025\
-Documentation Complete
