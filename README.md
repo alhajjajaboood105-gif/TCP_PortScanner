@@ -9,18 +9,18 @@ Platforms: Windows, Linux
 
  Table of Contents
 
-1. [Project Overview](project-overview)
-2. [Library Dependencies & Usage](library-dependencies--usage)
-3. [Architecture & Design Patterns](architecture--design-patterns)
-4. [Platform Abstractions Layer](platform-abstractions-layer)
-5. [Core Components Explained](core-components-explained)
-6. [Configuration Constants](configuration-constants)
-7. [Usage Guide](usage-guide)
-8. [Threading Model](threading-model)
-9. [Error Handling Strategy](error-handling-strategy)
-10. [Performance Optimization](performance-optimization)
-11. [Service Identification](service-identification)
-12. [Legal & Security Considerations](legal--security-considerations)
+1. [Project Overview]
+2. [Library Dependencies & Usage]
+3. [Architecture & Design Patterns]
+4. [Platform Abstractions Layer]
+5. [Core Components Explained]
+6. [Configuration Constants]
+7. [Usage Guide]
+8. [Threading Model]
+9. [Error Handling Strategy]
+10. [Performance Optimization]
+11. [Service Identification]
+12. [Legal & Security Considerations]
 
 ---
 
