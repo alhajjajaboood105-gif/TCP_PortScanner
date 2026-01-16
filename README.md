@@ -1,6 +1,6 @@
 # TCP Port Scanner
 
-**Author:** Abood Alhajjaj, Khamees Alhalboosi, Zena Alqudah, Heba Alhasasneh  
+**Author:** Abood Alhajjaj - [@alhajjajabood](https:/github/alhajjajabood), Khamees Alhalboosi, Zena Alqudah, Heba Alhasasneh  
 **Date:** December 2025  
 **Language:** C++11  
 **Platform:** Windows, Linux  
